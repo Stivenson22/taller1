@@ -1,0 +1,3 @@
+En el dia de hoy los temas tratados son: repaso de la clase aneterior y conocer git reset .
+que es un sistema de control de 
+versiones
